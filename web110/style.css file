@@ -1,7 +1,19 @@
 body {
-  background-color: Red;
+    background-color: #4D63E5;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
 }
-
 h1 {
-  color: Green;
+    color: #FFFFFF; /* White */
+    text-align: center;
+    font-size: 18px;
+}
+p {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
 }
